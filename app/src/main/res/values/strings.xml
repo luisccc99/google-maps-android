@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCurrentLocation</string>
+    <string name="start_service">start service</string>
+    <string name="home">home</string>
+    <string name="maps">maps</string>
+    <string name="profile">profile</string>
+</resources>
